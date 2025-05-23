@@ -9,6 +9,9 @@ const colors = {
   black: '#000',
   border: '#CCCCCC',
   cardHeader: '#605c97',
+  searchBackground: '#ffffff60',
+  headerBackground: '#ffffff30',
+  footer: '#999',
   professorType: {
     chill: '#6A1B9A',
   },
